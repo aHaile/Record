@@ -1,1 +1,9 @@
-
+-DPropertyManager.filename=/crs_nt.properties<br>
+-Dlog4j.configuration=log4j_crs_nt.properties<br>
+-reportInstanceId 238749783<br>
+-systemCodes FUNDINFO<br>
+batch<br>
+-date 01/01/2014 10:00:00 AM<br>
+-rptImplId 238749740<br>
+-Djava.library.path=C:\cspm\cloakware\cspmclient\lib<br>
+-Dcspm_client_config_file=C:\cspm\cloakware\cspmclient\config\cspm_client_config.xml<br>
