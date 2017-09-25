@@ -1,0 +1,133 @@
+ sr14028812
+Telephone to get password(computer and database)9118-321-001-617-664-6222
+Email:yingying_yan@ssga.com
+TNS_ADMIN\\strongbow\apps_prod\oracle
+ANT_HOMEC:\Users\a599393\software\apache-ant-1.7.1
+FLEX_HOMEC:\Users\a599393\software\Flex_SDK_3_6
+JBOSS_HOMEC:\jboss-eap-5.2\jboss-as
+MAVEN_HOMEC:\Users\a599393\software\apache-maven-3.2.1
+JAVA_OPTS-Xmx128M
+echo %ANT_HOME%
+CCRC\\arxhz2\files\Public\SSgA_Interactive\IBG\Resource\CCRC8016
+ShareFolder\\mf_a3e_01\devinstalls\Standard_Tools_Share
+Cloakware\\ntaswb01\globalpkg$\SOURCE\Cloakware_Client_4.2.2_WINSERV
+设置环境变量\\mf_a3e_01\devinstalls\Developer_Utilities
+JAVA_HOME   C:\Users\e612899\software\jdk1.5.0_12CLASSPATH   .;%JAVA_HOME%\lib;Path        %JAVA_HOME%\bin;
+Live chat Telephone81137576
+81137580
+DNS:corp.statestr.comstatestr.comga.ssga.rootssga.rootssga.statestr.com
+unix host name:gvwlsdev51/52gawlsdvi01/gawlsdvi02
+加权限\\mf_a3e_01\devinstalls\Developer_Utilities\_EnvVariables\Edit_System_variables.bat & net localgroup administrators e612899 /add
+\\mf_a3e_01\devinstalls\Developer_Utilities\_EnvVariables\Edit_System_variables.bat & cmd\\mf_a3e_01\devinstalls\Developer_Utilities\_EnvVariables\Edit_System_variables.bat & regedit
+JAVA_OPTIONS=-Xmx512M
+clearcase\\arxhz2\files\Public\SSgA_Interactive\IBG\Resource\CCRC8016
+Cloakware(看安装教程安装)\\ntaswb01\globalpkg$\SOURCE\Cloakware_Client_4.2.2_WINSERV
+weblogic\\HZ47P4992568\Users\a599393\e586202\SSGA_Install\weblogic\Upgrading WebLogic Server 9.2 to mp3.doc
+weifan:\\HZ47P4992568\Users\a599393\e586202
+DingHan:\\HZ47P4498148\Users\e546410\share
+
+alter session set current_schema=IMC;
+select t2.* 
+from REPORT_INSTANCE t1,Report_Inst_Content t2,Report_Inst_Version t3
+where t1.report_instance_id=t3.report_instance_id 
+and t2.report_inst_version_id=t3.report_inst_version_id
+and t1.user_key=1575581
+and t3.version_number=1
+
+http://vmjazapp01/ccrchttp://vmjazapp01/TeamWeb/services/Team
+ant -Dvob.parent.dir=C:\Users\a599393\a599393_crs3.8 -Dbuild.dir=C:\build\crs3_8ant -Dvob.parent.dir=C:\Users\a599393\a599393_crs3.8 -Dbuild.dir=C:\build\crs3_8 compile-imc-flex-applicationant -Dvob.parent.dir=C:\Users\a599393\a599393_crs3.8 -Dbuild.dir=C:\build\crs3_8 deploy-local-imc
+cd C:\Users\e612899\e612899_crs.aem1.0\inter_crsant -Dvob.parent.dir=C:\Users\e612899\e612899_crs.aem1.0 -Dbuild.dir=C:\build\aem1_0
+cd imcant -Dvob.parent.dir=C:\Users\e612899\e612899_crs.aem1.0 -Dbuild.dir=C:\build\aem1_0 compile-imc-flex-applicationant -Dvob.parent.dir=C:\Users\e612899\e612899_crs.aem1.0 -Dbuild.dir=C:\build\aem1_0 deploy-local-imc
+username   systempassword   wlsadminDomain name   mydomain
+look spechttps://collaborate.statestr.com/sites/SSgA-Interactive-BSA/SpecificationsLibrary/Documents/Forms/Specifications%20%20Standard.aspx?Paged=TRUE&p_Program_x002d_Applicatoin=8_CRS%7cReport%20Library&p_Domain_x002d_Type=8_Performance%20Report%7cReport%20Section&p_ID=117&RootFolder=%2fsites%2fSSgA%2dInteractive%2dBSA%2fSpecificationsLibrary%2fDocuments&PageFirstRow=61&FilterField1=Specification%5Fx0020%5FType&FilterValue1=Report%20Section&TreeField=Specification%5Fx0020%5FType&TreeValue=Report%
+http://localhost:7001/entry.html
+%ANT_HOME%\bin;C:\Perl64\site\bin;C:\Perl64\bin;%JAVA_HOME%\bin;C:\app\e612899\product\11.2.0\client_1;%Systemroot%\System32;%SystemRoot%;%SystemRoot\System32\Wbem;%SystemRoot%\System32\Wbem;%systemroot%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\Program Files (x86)\Voltage Security\Voltage SecureMail\;C:\Program Files (x86)\Common Files\Voltage Security\;C:\Program Files\Voltage Security\Voltage SecureMail\;C:\Program Files\Common Files\Voltage Security\;c:\program files (x86)\common files\ado\system;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\IBM\RationalSDLC\clearcase\RemoteClient\cteapis;
+C:\Users\e612899\software\jboss\jboss-eap-5.2\jboss-as\bin\run.bat -c all
+C:\Users\e612899\software\jbosscrs3_8_2\jboss-eap-5.2\jboss-as\bin\run.bat -c all
+java BatchReportExtractor -reportInstanceId 1840848java BatchReportExtractor -templateFamilyCodes VQ QRjava BatchReportExtractor -templateFamilyCodes VQ QR -threadNum 10
+java BatchReportExtractor [-reportInstanceId 1840848] | [[-templateFamilyCodes VQ QR] [-threadNum 10]]
+reportImpl::Name = QV_Europe_yyy_20160728_1Due in 15 DaysWarning in 12 DaysFrequency = MonthlyLanguage = English (US)Office = London, EnglandOrganization = Macmillan LimitedFormat = Adobe PDFPeriod = 1 Month-To-DateBusiness Calendar = London, EnglandStatus = ActiveLast modified on 7/27/2016 23:29:12beginProductionDays 0beginProductionHours  0All Parameters:  Section: nodeId = 3833591, name = Default Report Section :  Group Report Content:    Cover Page = "Yes"    End Notes = "EUK2637"  Group Hidden:    Report Scheduling Units = "DAYS"    Page Orientation = "Landscape"    Annotation Parameter = "Yes"    Show Exists Mandate = "Passive Balanced Portfolio", "DB Plan - Fixed Income", "DB Plan- Equity Portfolio-Account 2", "DC Scheme",   Group Basic Settings:    Report Language = "English (US)"    Report Label = "QV_Europe_yyy_20160728_1"    Client Service Office = "London, England"    Report Frequency = "MONTHLY"    Number Format = "American"    Paper Size = "A4"    Show Organization Name = "Yes"    Show Investment Program Name = "Yes"    Test Report = "No"  Group Report Production Schedule:    Report Approval = "NO"    Reporting Calendar = "London, England"    Delivery Notification = "15"    Warning Notification = "12"    Begin Report Production = "0"    Begin Report Production Hour = "0"  Group Investment Programs:    Selected MHE = "Passive Balanced Portfolio", "DB Plan - Fixed Income", "DB Plan- Equity Portfolio-Account 2", "DC Scheme",     MHE Resolution Level = "Mandate"
+
+cd C:\Users\e612899\e612899_crs3.8.2\inter_crsant -Dvob.parent.dir=C:\Users\e612899\e612899_crs3.8.2 -Dbuild.dir=C:\build\crs3_8_2
+cd imcant -Dvob.parent.dir=C:\Users\e612899\e612899_crs3.8.2 -Dbuild.dir=C:\build\crs3_8_2 compile-imc-flex-applicationant -Dvob.parent.dir=C:\Users\e612899\e612899_crs3.8.2 -Dbuild.dir=C:\build\crs3_8_2 deploy-local-imc
+SSgAP01117589SSgAP01117591
+ORACLE.DataSource=javafcmtOraclePool
+check outcheck indeliverymake baselinecommand baseline
+pwdpbrun -u jbsinter csh/apps/jbs/crsetl/central/crsetl/custom-env.env
+javac -cp /tools/java/jdk1.6/lib/ 
+Wei, Biao [12:22 PM]: 2 defectsclearquest3.8.2ENG: crs3.8.2 fundinfo development workWei, Biao [1:25 PM]: Enhance DdBatchRequestLoader.java to include the new loader    YingyingAdd new system code to DataDeliverySystem Wei, Biao [2:46 PM]: DataDeliveryBatchMgrBeanparseRequestFundInfoRequestParser
+com.ssga.ssgai.crs.extractor.shared.section.DefaultReportSectionExtractorcom.ssga.ssgai.crs.extractor.shared.section.GenericGroupSectionExtractor
+[201721985, 238749784, 201765258, 201721991, 238365025, 238365022, 238378067, 238365028, 238746199, 238371679, 238746517, 238748653, 238364969, 238371710, 238366094, 238365034, 238367057, 238378347, 201765246, 238371212, 238380648, 238365008, 238368168, 238365015, 238365031, 238380606, 238380492]uri:https://aemforms-dev.ssga.statestr.com/rest/services/CRS/processes/GenerateReport:1.0
+
+ INSERT INTO IMC.TEMPLATE(TEMPLATE_ID, "CODE", "NAME", "DESCRIPTION", VERSION_NUMBER, SAMPLE_FILE, "IMAGE", REPORT_EXTRACTOR_ID) VALUES(12138, 'R-YT01', 'Yyy Test(Standard)', 'Yyy test template', 1, '/temp/sample.pdf', '/temp/sample.png', 38)
+INSERT INTO IMC.TEMPLATE(TEMPLATE_ID, "CODE", "NAME", "DESCRIPTION", VERSION_NUMBER, SAMPLE_FILE, "IMAGE", REPORT_EXTRACTOR_ID, REPORT_FORMAT_ID, ANNOTATION_FLAG, FILE_INCLUSION_FLAG, PRELIMINARY_DATA_FLAG, SUPPORTED_RPT_LEVEL_ID, RESOLVED_LEVEL_ID, REPORT_FORMATTER_ID, CREATED_BY, CREATED_TIMESTAMP, LAST_MODIFIED_BY, LAST_MODIFIED_TIMESTAMP) VALUES(12138, 'R-YT01', 'Yyy Test(Standard)', 'Yyy test template', 1, '/temp/sample.pdf', '/temp/sample.png', 38, 39, 'Y', 'N', 'N', 51, 53, 41, 105134, sysdate, 105134, sysdate)
+insert into imc.section_hier_node(SECTION_HIER_NODE_ID, SECTION_ID, prnt_scn_hier_node_id, FAILS_IF_EMPTY_FLAG, SEQUENCE_ORDER, LAST_MODIFIED_BY, LAST_MODIFIED_TIMESTAMP, UI_VISIBLE_FLAG) values(imc.seq_object_id.NEXTVAL, 73, imc.seq_object_id.NEXTVAL, 'Y', 10, 105134, sysdate, 'N')
+insert into IMC.TMPL_SECTION_HIER(TMPL_SECTION_HIER_ID, TEMPLATE_ID, SECTION_HIER_NODE_ID, SECTION_FORMATTER_ID, LAST_MODIFIED_BY, LAST_MODIFIED_TIMESTAMP) values(imc.seq_object_id.NEXTVAL, 12138, 238752190, 238358002, 37767, sysdate)
+update imc.section_hier_node set sequence_order=10 where section_hier_node_id=238752234
+insert into imc.tmpl_sect_param(tmpl_sect_param_id, template_id, section_hier_node_id, parameter_id, default_value, parameter_group_id, sequence_order, ui_spec_xml, last_modified_by, last_modified_timestamp) values(imc.seq_object_id.NEXTVAL, 12138, 238752253, 191, 'Yyy Test(Standard)', 33, 10, sys.xmlType.createXML('<TemplateParameterUserInterface><TextUserInterface length="100" wordwrap="false" mask="false" /></TemplateParameterUserInterface>'), 105134, sysdate)
+insert into imc.vew_tmpl_sect_param  (tmpl_sect_param_id,   template_id,   section_hier_node_id,   parameter_id,   default_value,   parameter_group_id,   sequence_order,   ui_spec_xml,   last_modified_by,   last_modified_timestamp)values  (imc.seq_object_id.NEXTVAL,   12138,   238752457,   200,   'YES',   36,   90,   XMLTYPE('<TemplateParameterUserInterface required="true"><CustomUserInterface/></TemplateParameterUserInterface>'),   105134,   sysdate)
+insert into imc.tmpl_info_family  (tmpl_info_family_id, template_id, template_family_id, last_modified_by, last_modified_timestamp)values  (imc.seq_object_id.NEXTVAL, 12138, 86, 105134, sysdate)
+insert into imc.supported_rpt_prd  (supported_rpt_prd_id,   template_id,   report_period_id,   last_modified_by,   last_modified_timestamp)values  (imc.seq_object_id.NEXTVAL,  12138,  56,  105134,  sysdate)
+---------------------------------------------------------------------------------------------declare  -- Non-scalar parameters require additional processing   p_report_impl_id imc.ary_id := imc.ary_id();  p_system_doc_type_ids imc.ary_id := imc.ary_id();  p_ary_template imc.ary_template;begin  -- Call the procedure  imc.pkg_report_impl.get_report_templates(p_report_period_id => :p_report_period_id,                                           p_template_family_id => :p_template_family_id,                                           p_report_format_id => :p_report_format_id,                                           p_language_id => :p_language_id,                                           p_report_impl_id => p_report_impl_id,                                           p_system_doc_type_ids => p_system_doc_type_ids,                                           p_ary_template => p_ary_template);                                                                                      open :cur for select * from table(p_ary_template);end;
+------------------------------------------------------------------------------------------------------/usr/local/bin/pbrun -u jbsinter /tools/jboss5/central/kill_jboss.sh/usr/local/bin/pbrun -u jbsinter /tools/jboss5/central/start_jboss.sh/tools/jboss5/central/start_jboss.sh$JBOSS_HOME/common/lib/servlet-api.jar:\
+imc.seq_object_id.NEXTVAL
+alter user user_name identified by new_password replace old_password
+==========================================================================================-- get contact_id
+SELECT * -- user_id = 152821 --> contact_id, UAT and PROD are same
+FROM refdata.user_tbl ut,
+refdata.onyx_individual_tbl oit
+WHERE oit.individual_id = ut.individual_id
+AND oit.individual_first_name = 'Xuze'
+AND oit.individual_last_name = 'Yang';======================================================================================yingying: my user id:220499
+SELECT ind.contact_id,              ind.first_name,              ind.middle_initial,              ind.last_name,              ind.title,              ina.email,              com.company_name,              ind.active_flag
+  FROM IMC.vew_contact_alias cna,              IMC.vew_individual ind,              IMC.vew_individual_email_address ina,              IMC.vew_base_company com
+ WHERE ind.contact_id = cna.contact_id         AND ina.contact_id(+) = ind.contact_id         AND com.company_id(+) = ind.employer_id         AND UPPER(cna.alias) = UPPER('e612899')         AND cna.system_code = 'NT'         AND ind.active_flag = 'Y';
+
+C:\Users\e616780>keytool -list -keystore C:\SoftWare\Java\jdk1.6.0_26\jre\lib\security\cacertsC:\Users\e616780>keytool -import -file C:\Users\e616780\Desktop\idm-dev.cer -alias idm-dev -keystore C:\SoftWare\Java\jdk1.6.0_26\jre\lib\security\cacerts
+>keytool -delete -alias dfcmt-dvi -keystore C:\Users\e612899\software\jdk1.6.0_26\jre\lib\security\cacertschangeit
+doccrsrw_devtestuser
+
+SELECT      cfm.ce_id,       cfm.client_id,       cfm.fund_primary_alias,       cfm.fund_id,       cfm.fund_name,       cfm.period_end_date  FROM DGS.VEW_CLIENT_FUND_MAP cfm  WHERE cfm.fund_primary_alias = 'CMM3'  AND cfm.period_end_date = to_date('10/13/2016', 'mm/dd/yyyy')  ORDER BY cfm.period_end_date desc
+df -k
+java -cp testfont.jar com.ssga.test.TestFontName 
+jil<your_autosys_jilfile.jilsendevent -E FORCE_STARTJOB -J JOBNAME --TO START A JOBsendevent -j devi_crs_dd_evestment_deliv_JB  -e JOB_ON_HOLD/STARTJOB autorep -J JOBNAME -- To view the job autostatus -J job_name
+/data/jbs/crscom/central/crscom/servers/gvcrsdev51/tmp/data/jbs/crscom/logs/data/jbs/crscom/logs/gvcrsdev51hostname/data/jbs/crscom/central/crscom/servers/gvcrsdev51/logsrm server.log.*
+# rm /data/jbs/crscom/logs/gvcrsdev51/crscom_app.log.*
+https://collaborate.statestr.com/sites/ssga-interactive/Projects/Automate404a/https://collaborate.statestr.com/sites/ssga-interactive/Technical Specifications/404a Delivery package reconciliation TAD.docx
+
+sqlplus e612899@RIK.UAT.OLTPALTER USER e519013 IDENTIFIED BY "new_password" REPLACE "old_password";
+C:\Users\e612899\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\H7UQ71OR
+deploy clientpbrun -u crsapp cshcd /home/systems/crsappinstall_batch_tree.sh crscom
+dbms_output.put_line(p_execution.delivery_execution_detail(1).deliv_execution_summary.delivery_execution_id);
+
+space devicecd /data/wlscd spdrsdf -hkdf -hcd logsdu -h cd gawls07 lsrm -r * df -h
+/data/wls/spdrs/logs/gawls07
+
+declare  -- Non-scalar parameters require additional processing   p_execution imc.obj_resolved_deliv_executions;begin  -- Call the procedure  imc.pkg_delivery.get_exec_in_pending_delivery(p_delivery_execution_id => :p_delivery_execution_id,                                                p_execution => p_execution);
+dbms_output.put_line(p_execution.delivery_execution_detail.count);dbms_output.put_line(p_execution.delivery_execution_detail(1).deliv_execution_summary.delivery_execution_id);
+end;
+begindbms_application_info.set_client_info ('AUDIT:'||220499);delete from imc.vew_doc_inst_deliv_exec where delivery_execution_id=183636177;end;
+--kelvine505246Great$246
+VMbuilder: vmgasitapp1dev
+pbrun -u jbsinter -h gvcrsuat65 tail -500f /data/jbs/crsimc/logs/gvcrsuat65/crsimc_app.log
+IBM-AHS-WEBAPP
+Something has changed with your application.  There is no issue with LDAP.  I can login with the account IMC_IDM_TEWS_DEV and password testuser to this URL https://idm12-dev01.ssga.statestr.com/iam/im/TEWS6/ssga
+C:\Users\e612899>java -classpath C:\Users\e612899\e612899_crs.aem1.1\inter_crs\lib\xalan.jar;C:\Users\e612899\e612899_crs.aem1.1\inter_crs\lib\xercesImpl.jar;C:\Users\e612899\e612899_crs.aem1.1\inter_crs\lib\serializer.jar org.apache.xalan.xslt.Process -IN C:\Users\e612899\Desktop\fundholding\test2.xml -XSL C:\inter_crs\extractor\extractor_data\xsl\section\FundTopHoldingXmlUtil.xsl -OUT C:\Users\e612899\Desktop\fundholding\result.xml
+SELECT * FROM dba_role_privs WHERE grantee = 'E612899'
+ps -ef |grep crsimc
+mvn packagemvn package -Prptcall mvn install:install-file -Dfile=ojdbc5.jar                    -DartifactId=ojdbc5                    -Dversion=1.0     -DgroupId=com.ssga.ssgai.privatesite.dependencies   -Dpackaging=jarcall mvn install:install-file -Dfile=jboss-ejb3-ext-api.jar        -DartifactId=jboss-ejb3-ext-api        -Dversion=1.0     -DgroupId=com.ssga.ssgai.privatesite.dependencies   -Dpackaging=jar
+NotesAssembly Platform: Windows Directory in Baselined View to Invoke Assembly Command: \inter_crs\release \1232130_crsimc_intranet Assembly Command: ant -v Assembly Result: deployment.zip (relative to above directory) Rename deployment.zip to inter_crs_intranet_1232130.zip
+Assembly Platform: Windows Directory in Baselined View to Invoke Assembly Command: inter_crs\dbe\Release\Deployment\1232068_CRS384 Assembly Command: ant -v Assembly Result: deployment.zip (relative to above directory) Rename deployment.zip to inter_crs_oracle_1232068.zip 
+Assembly Platform: Windows Directory in Baselined View to Invoke Assembly Command: \inter_crs\release \1232130_crsimc_intranet Assembly Command: ant -v Assembly Result: deployment.zip (relative to above directory) Rename deployment.zip to inter_crs_intranet_1232130.zip 
+Assembly Platform: Windows Directory in Baselined View to Invoke Assembly Command: \inter_crs\release \1232135_crsgen_intranet Assembly Command: ant -v Assembly Result: deployment.zip (relative to above directory) Rename deployment.zip to inter_crs_intranet_1232135.zip 
+/usr/local/bin/pbrun -u crsapp /home/systems/crsapp/crsdel/bin/startDeliveryExecutionDeliver.sh -executionIds
+C:\Users\e612899>java -classpath C:\Users\e612899\e612899_crs3.10\inter_crs\lib\xalan.jar;C:\Users\e612899\e612899_crs3.10\inter_crs\lib\xercesImpl.jar;C:\Users\e612899\e612899_crs3.10\inter_crs\lib\serializer.jar org.apache.xalan.xslt.Process -IN C:\Users\e612899\workspace\crs3_10\xml\transactionTest.xml -XSL C:\inter_crs\extractor\extractor_data\xsl\section\IrelandPreliminaryGroupFormatter.xsl -OUT C:\Users\e612899\workspace\crs3_10\xml\transactionResult.xml
+
+<xsl:value-of select="$manDataGrpNode/@displayLevel"/>
+<xsl:element name="Product">    <xsl:value-of select="@nodeLevel"/>    <!--<xsl:value-of select="'showPro'"/>-->    <xsl:value-of select="$displayLevel"/>    <xsl:if test="@nodeLevel &gt; $displayLevel">        <xsl:value-of select="'showPro'"/>    </xsl:if></xsl:element>
+<xsl:variable name="isPrelim" select="@isPrelim" />
+pbrun -u crsapp /home/systems/crsapp/crsengine/bin/crs_jobs_off_hold.shpbrun -u crsapp /home/systems/crsapp/crsengine/bin/crs_jobs_on_hold.sh/tools/autosys/bin/autorep -j crs_%CRS Technical Support Team <CRSTechnicalSupportTeam@ssga.com>
+release agendauatprd: QA uat signoff     DC submit-> application manager approve -> Change Management Group <Change_Management_Group@ssga.com> approve     DM submit -> business approve -> application manager approve     business check \ signoff
+jboss7/apps/jbs/ssgaitools/eap7/gvjbsdev57/standalone/configuration/tools/jboss7/central/scripts/stop_jboss7.sh/tools/jboss7/central/scripts/start_jboss7.sh
+
+Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data.count);   Dbms_Output.put_line('client id' || p_transaction_client.client_id);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(1).security_name);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(2).security_name);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(3).security_name);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(4).security_name);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(5).security_name);   Dbms_Output.put_line(p_transaction_client.transaction_ips(1).transaction_mandates(1).transaction_data(6).security_name);
